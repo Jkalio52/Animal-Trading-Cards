@@ -1,0 +1,57 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  width: 450px;
+  box-shadow: 10px 5px 5px brown;
+  border-radius: 5px;
+  margin: 10px;
+  color: white;
+}
+
+h3 {
+  font-size: 38px;
+  padding-left: 15px;
+}
+
+img {
+  border: 3px solid brown;
+  border-radius: 15px;
+  width: 420px;
+}
+
+.animal-fact {
+  font-style: italic;
+}
+
+span {
+  font-weight: bolder;
+}
+
+ul {
+  list-style-type: none;
+  text-align: left;
+  padding-left: 0;
+}
+
+.rabbits {
+  border: 3px solid brown;
+  padding: 22px;
+  border-radius: 15px;
+  padding: 0 10px;
+  background-color: #2908ad;
+}
+
+.bunny {
+  border: 3px solid brown;
+  width: 400px;
+  border-radius: 15px;
+  padding: 0 10px;
+  margin: 20px 0;
+}
+
+.description {
+  border: 3px solid brown;
+  margin: 20px 0;
+  border-radius: 15px;
+  padding: 0 10px;
+}
